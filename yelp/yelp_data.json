@@ -1,0 +1,4265 @@
+[
+    {
+        "business_id": {
+            "S": "XsXLVWr1UZWVhKThNvNiaA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316935"
+        },
+        "name": {
+            "S": "Blue Willow \u591c\u6765\u6e58"
+        },
+        "address": {
+            "S": "40 W 56th St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76292,-73.976546"
+        },
+        "number_of_reviews": {
+            "N": "1084"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "BNaveJmi-OUGKG9sRfrIhA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316956"
+        },
+        "name": {
+            "S": "Mr. Sun"
+        },
+        "address": {
+            "S": "48 W 48th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.75809,-73.98026"
+        },
+        "number_of_reviews": {
+            "N": "280"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "iu1TLnNH13AdBDg_LmnuHQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316961"
+        },
+        "name": {
+            "S": "Lunar"
+        },
+        "address": {
+            "S": "12 E 37th St, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74981466503257,-73.98231633276964"
+        },
+        "number_of_reviews": {
+            "N": "14"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "h0pRCiJDrCN7tm3VX5tILQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316965"
+        },
+        "name": {
+            "S": "CHILI"
+        },
+        "address": {
+            "S": "13 E 37th St, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.75002,-73.98215"
+        },
+        "number_of_reviews": {
+            "N": "766"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "UK1oGbr8GU2rufpnJR4-HQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316969"
+        },
+        "name": {
+            "S": "Joe's Home of Soup Dumplings"
+        },
+        "address": {
+            "S": "7 E 48th St, between Fifth and Madison avenues, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.75723,-73.97702"
+        },
+        "number_of_reviews": {
+            "N": "586"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "bVkjBJlAIwKAj9Aw1KVWjA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316973"
+        },
+        "name": {
+            "S": "Dim Sum Palace"
+        },
+        "address": {
+            "S": "334 W 46th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.76015,-73.9893699"
+        },
+        "number_of_reviews": {
+            "N": "1750"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "pVlKM-vyOJxfoJ9fwMDDfA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316976"
+        },
+        "name": {
+            "S": "Sky Pavilion"
+        },
+        "address": {
+            "S": "325 W 42nd St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.757968,-73.990862"
+        },
+        "number_of_reviews": {
+            "N": "3"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "ojbH3wnRu050hRhkmoxRiA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316983"
+        },
+        "name": {
+            "S": "Han Dynasty"
+        },
+        "address": {
+            "S": "215 W 85th St, New York, NY 10024"
+        },
+        "coordinates": {
+            "S": "40.7875228,-73.97639697790984"
+        },
+        "number_of_reviews": {
+            "N": "731"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10024"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "ZWP7yq9C2bhCcLkMR9BmVw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316993"
+        },
+        "name": {
+            "S": "Mala Project"
+        },
+        "address": {
+            "S": "245 East 53rd St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75714784759798,-73.96769121739368"
+        },
+        "number_of_reviews": {
+            "N": "97"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "lSuyHj3cCXbKjcZaakF9lQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.316998"
+        },
+        "name": {
+            "S": "Dimsum Garden"
+        },
+        "address": {
+            "S": "1068 2nd Ave, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.758701,-73.965463"
+        },
+        "number_of_reviews": {
+            "N": "29"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "p4xNh2NAy85Br77XaomFOw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317001"
+        },
+        "name": {
+            "S": "OOHU"
+        },
+        "address": {
+            "S": "128 W 36th St, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.751493955047785,-73.9883517"
+        },
+        "number_of_reviews": {
+            "N": "47"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "0CjK3esfpFcxIopebzjFxA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317005"
+        },
+        "name": {
+            "S": "Joe's Shanghai"
+        },
+        "address": {
+            "S": "46 Bowery St, New York, NY 10013"
+        },
+        "coordinates": {
+            "S": "40.7156608,-73.9967012"
+        },
+        "number_of_reviews": {
+            "N": "7327"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10013"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "sRWRA4dcN_NR1JGpuRVouA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317008"
+        },
+        "name": {
+            "S": "Nan Xiang Xiao Long Bao - Manhattan"
+        },
+        "address": {
+            "S": "24 W 33rd St, New York, NY 10001"
+        },
+        "coordinates": {
+            "S": "40.74822527534694,-73.9857786"
+        },
+        "number_of_reviews": {
+            "N": "945"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10001"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "qrncvjkiKN5Z-JC06ygy6A"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317011"
+        },
+        "name": {
+            "S": "Hutong New York"
+        },
+        "address": {
+            "S": "Inside Beacon Courtyard, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.761551,-73.967443"
+        },
+        "number_of_reviews": {
+            "N": "583"
+        },
+        "rating": {
+            "N": "3.6"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "DIwe3i_-OkvfKAHrNDGtSw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317014"
+        },
+        "name": {
+            "S": "Red Sorghum \u591c\u5bb4"
+        },
+        "address": {
+            "S": "28-03 Jackson Ave, New York, NY 11101"
+        },
+        "coordinates": {
+            "S": "40.74852,-73.93789"
+        },
+        "number_of_reviews": {
+            "N": "51"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "11101"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "lynQoI3w_pzYfHGeuUU-Qg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317018"
+        },
+        "name": {
+            "S": "Shu Jiao Fu Zhou"
+        },
+        "address": {
+            "S": "295 Grand St, New York, NY 10002"
+        },
+        "coordinates": {
+            "S": "40.7174109,-73.99210041198651"
+        },
+        "number_of_reviews": {
+            "N": "1383"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10002"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "83zDAk03lFXkgImgkLhT9w"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317021"
+        },
+        "name": {
+            "S": "Chi Restaurant & Bar"
+        },
+        "address": {
+            "S": "492 9th Ave, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.75547,-73.99439"
+        },
+        "number_of_reviews": {
+            "N": "128"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "4FD0TAxe70nb3ngk3sXF9Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317024"
+        },
+        "name": {
+            "S": "Uluh"
+        },
+        "address": {
+            "S": "152 2nd Ave, Ste A, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.729354,-73.98665"
+        },
+        "number_of_reviews": {
+            "N": "948"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "QXgp1Ac10x6yDAPWFIxnbA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317027"
+        },
+        "name": {
+            "S": "Charoen Krung"
+        },
+        "address": {
+            "S": "955 2nd Ave, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.755354,-73.968495"
+        },
+        "number_of_reviews": {
+            "N": "84"
+        },
+        "rating": {
+            "N": "4.8"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "WVsPyl-DGRu0O_rQYdIMVQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317031"
+        },
+        "name": {
+            "S": "The Best Sichuan"
+        },
+        "address": {
+            "S": "47 W 39th St, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.75266,-73.98459"
+        },
+        "number_of_reviews": {
+            "N": "142"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "wfhMIiMh2A2psCGONOVSlg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317034"
+        },
+        "name": {
+            "S": "Han Dynasty"
+        },
+        "address": {
+            "S": "90 3rd Ave, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.732072,-73.988074"
+        },
+        "number_of_reviews": {
+            "N": "1374"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "A-ert0jDRBfku9ogyW_mEg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317039"
+        },
+        "name": {
+            "S": "Spice Symphony"
+        },
+        "address": {
+            "S": "150 E 50th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.7558937072754,-73.9715347290039"
+        },
+        "number_of_reviews": {
+            "N": "667"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "FXhSEZfIqjMZh4hR0_8jMQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317053"
+        },
+        "name": {
+            "S": "China Xiang \u4e2d\u56fd\u6e58"
+        },
+        "address": {
+            "S": "360 W 42nd Street, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.7582902125633,-73.9925113993899"
+        },
+        "number_of_reviews": {
+            "N": "560"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "LT0yyLNM84EiJj9DL0rfHA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317057"
+        },
+        "name": {
+            "S": "Hui Restaurant & Bar"
+        },
+        "address": {
+            "S": "314 E 70th St, New York, NY 10021"
+        },
+        "coordinates": {
+            "S": "40.76701,-73.95846"
+        },
+        "number_of_reviews": {
+            "N": "300"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10021"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "oowNI_aUmGEFa_VW8BFgRg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317060"
+        },
+        "name": {
+            "S": "Tri Dim Shanghai"
+        },
+        "address": {
+            "S": "1378 3rd Ave, New York, NY 10075"
+        },
+        "coordinates": {
+            "S": "40.773951,-73.957927"
+        },
+        "number_of_reviews": {
+            "N": "556"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10075"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "xq0cX_DgxiJMXwhmEl9kUA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317064"
+        },
+        "name": {
+            "S": "Caf\u00e9 China"
+        },
+        "address": {
+            "S": "59 W 37th St, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.75158498670787,-73.98582411501887"
+        },
+        "number_of_reviews": {
+            "N": "1960"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "Ece_DRuD1yQjRPJBAebRpw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317067"
+        },
+        "name": {
+            "S": "Kung Fu Little Steamed Buns Ramen"
+        },
+        "address": {
+            "S": "146 E 55th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.7592514705491,-73.9694294705987"
+        },
+        "number_of_reviews": {
+            "N": "398"
+        },
+        "rating": {
+            "N": "3.4"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "jc7lVTvmYMIK5RNpENtS6w"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317071"
+        },
+        "name": {
+            "S": "Szechuan Mountain House"
+        },
+        "address": {
+            "S": "23 St Marks Pl, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.72911,-73.98858"
+        },
+        "number_of_reviews": {
+            "N": "726"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "1jAB_uaI8-P_wSqOo2S3KQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317074"
+        },
+        "name": {
+            "S": "Mazu Szechuan"
+        },
+        "address": {
+            "S": "495 3rd Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.745234,-73.97812"
+        },
+        "number_of_reviews": {
+            "N": "135"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "0dDCDQz7DrKkSvu9h2hcQw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317077"
+        },
+        "name": {
+            "S": "Chow House"
+        },
+        "address": {
+            "S": "181 Bleecker St, New York, NY 10012"
+        },
+        "coordinates": {
+            "S": "40.72915,-74.00072"
+        },
+        "number_of_reviews": {
+            "N": "656"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10012"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "afbl_jCNpomzJiDBdomb6g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317080"
+        },
+        "name": {
+            "S": "Oceans New York"
+        },
+        "address": {
+            "S": "233 Park Ave S, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.737408,-73.987887"
+        },
+        "number_of_reviews": {
+            "N": "231"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "w4aW7geanPgny-dxsDNkMA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317083"
+        },
+        "name": {
+            "S": "Moon Kee"
+        },
+        "address": {
+            "S": "2642 Broadway, New York, NY 10025"
+        },
+        "coordinates": {
+            "S": "40.7973721,-73.9694833"
+        },
+        "number_of_reviews": {
+            "N": "40"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10025"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "FcQA5tV8wlz6jg_UK_s7Hw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317086"
+        },
+        "name": {
+            "S": "Simply Noodles"
+        },
+        "address": {
+            "S": "267  Amsterdam Ave, New York, NY 10023"
+        },
+        "coordinates": {
+            "S": "40.7788403,-73.98118199999999"
+        },
+        "number_of_reviews": {
+            "N": "133"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10023"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "oJ6fy4fBv_3WskxH4NfNBg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317090"
+        },
+        "name": {
+            "S": "Chef Huang Jian Bing & Peking Duck"
+        },
+        "address": {
+            "S": "635 2nd Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74531205210646,-73.9757772"
+        },
+        "number_of_reviews": {
+            "N": "94"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "GuzlMBKNoClNx5I1-x-DDg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317094"
+        },
+        "name": {
+            "S": "53 NYC"
+        },
+        "address": {
+            "S": "53 W 53rd St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76179318437133,-73.9780863"
+        },
+        "number_of_reviews": {
+            "N": "136"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "8plXW6ZQI1awPu1scms3jQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317097"
+        },
+        "name": {
+            "S": "Silky Kitchen"
+        },
+        "address": {
+            "S": "138 W 46th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.757889,-73.984009"
+        },
+        "number_of_reviews": {
+            "N": "85"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "ICNwlgXTrvFrGvaScUp8Ew"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317100"
+        },
+        "name": {
+            "S": "For U"
+        },
+        "address": {
+            "S": "155 3rd Ave, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.73415,-73.98633"
+        },
+        "number_of_reviews": {
+            "N": "41"
+        },
+        "rating": {
+            "N": "4.9"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "1dFOF1HPaThSCsdiqR7DrA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317105"
+        },
+        "name": {
+            "S": "Land of Plenty"
+        },
+        "address": {
+            "S": "204E 58th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.760590326928856,-73.96659593005877"
+        },
+        "number_of_reviews": {
+            "N": "374"
+        },
+        "rating": {
+            "N": "3.6"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "QaolMEijS7L6eodSneOdng"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317109"
+        },
+        "name": {
+            "S": "Tri Dim Shanghai West"
+        },
+        "address": {
+            "S": "467 Columbus Ave, New York, NY 10024"
+        },
+        "coordinates": {
+            "S": "40.78412,-73.97368"
+        },
+        "number_of_reviews": {
+            "N": "248"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10024"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "R3UNnA8EbjhNWBHS0wJ0VA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317112"
+        },
+        "name": {
+            "S": "Grand Sichuan Eastern"
+        },
+        "address": {
+            "S": "1049 2nd Ave, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75831,-73.96636"
+        },
+        "number_of_reviews": {
+            "N": "283"
+        },
+        "rating": {
+            "N": "3.3"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "Qwd4Tv-CqgO2Yl9zZgkKOQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317116"
+        },
+        "name": {
+            "S": "Shun Lee Palace"
+        },
+        "address": {
+            "S": "155 E 55th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75945,-73.96907"
+        },
+        "number_of_reviews": {
+            "N": "343"
+        },
+        "rating": {
+            "N": "3.2"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "_fTRTishY3G5dLPLYGCVAw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317119"
+        },
+        "name": {
+            "S": "Tipsy Shanghai"
+        },
+        "address": {
+            "S": "594 3rd Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74879,-73.9761"
+        },
+        "number_of_reviews": {
+            "N": "55"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "wDuf4Qz9qsC62amLZgWNJQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317124"
+        },
+        "name": {
+            "S": "Little Alley"
+        },
+        "address": {
+            "S": "550 3rd Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74744,-73.97728"
+        },
+        "number_of_reviews": {
+            "N": "550"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "83BXSwE0166sObnXLUE4bQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317127"
+        },
+        "name": {
+            "S": "Land"
+        },
+        "address": {
+            "S": "450 Amsterdam Ave, New York, NY 10024"
+        },
+        "coordinates": {
+            "S": "40.78497,-73.9772182"
+        },
+        "number_of_reviews": {
+            "N": "1131"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10024"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "X8ZS-dgiMIJvhwf9SaDnjw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317131"
+        },
+        "name": {
+            "S": "Wah Fung No 1"
+        },
+        "address": {
+            "S": "79 Chrystie St, New York, NY 10002"
+        },
+        "coordinates": {
+            "S": "40.71735,-73.99457"
+        },
+        "number_of_reviews": {
+            "N": "2082"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10002"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "-lgNzAEyFr8LCTuBTWnAMg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317134"
+        },
+        "name": {
+            "S": "Dim Sum Palace"
+        },
+        "address": {
+            "S": "28 W 56th St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.762765496672955,-73.97609185077448"
+        },
+        "number_of_reviews": {
+            "N": "473"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "Q85ScF9s6vlS5_i453AFvg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317137"
+        },
+        "name": {
+            "S": "Tangy Noodle"
+        },
+        "address": {
+            "S": "98 8th Ave, New York, NY 10011"
+        },
+        "coordinates": {
+            "S": "40.740203,-74.00193"
+        },
+        "number_of_reviews": {
+            "N": "97"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10011"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "mUl0wtO7tPkBocuJqZ-7Dw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317141"
+        },
+        "name": {
+            "S": "Dun Huang -  Grand Central"
+        },
+        "address": {
+            "S": "320 Lexington Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74922,-73.97785"
+        },
+        "number_of_reviews": {
+            "N": "337"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "0vg2Z-HPwkyVVX613j2ysg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:47.317144"
+        },
+        "name": {
+            "S": "Peng's Noodle Folk"
+        },
+        "address": {
+            "S": "1016 Lexington Ave, New York, NY 10021"
+        },
+        "coordinates": {
+            "S": "40.7711335538802,-73.9620354269869"
+        },
+        "number_of_reviews": {
+            "N": "565"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10021"
+        },
+        "cuisine": {
+            "S": "Chinese"
+        }
+    },
+    {
+        "business_id": {
+            "S": "x0k5kFArHLijdY8-NEQ7Xg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036323"
+        },
+        "name": {
+            "S": "Bengal Tiger Indian Food"
+        },
+        "address": {
+            "S": "58 W 56th St, Fl 2, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.763167,-73.977131"
+        },
+        "number_of_reviews": {
+            "N": "2370"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "QqrEF8_ZQCGi63cL10J5oA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036343"
+        },
+        "name": {
+            "S": "Chola"
+        },
+        "address": {
+            "S": "232 E 58th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.76016,-73.96582"
+        },
+        "number_of_reviews": {
+            "N": "683"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "m5Whyz8O8jM4DrE808h71g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036346"
+        },
+        "name": {
+            "S": "Darbar Grill"
+        },
+        "address": {
+            "S": "157 E 55th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.759357,-73.968826"
+        },
+        "number_of_reviews": {
+            "N": "594"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "7DzfrwNwXmbS6OhYxPKfHQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036349"
+        },
+        "name": {
+            "S": "Kanyakumari"
+        },
+        "address": {
+            "S": "20 E 17th St, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.737313,-73.991263"
+        },
+        "number_of_reviews": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.9"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "XLEdQl5s1bO5Iu43W_c96Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036352"
+        },
+        "name": {
+            "S": "Muna"
+        },
+        "address": {
+            "S": "152 East 46th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.753509,-73.973515"
+        },
+        "number_of_reviews": {
+            "N": "68"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "1_pK5aQ47atF50oAKHADhA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036355"
+        },
+        "name": {
+            "S": "Indian Accent"
+        },
+        "address": {
+            "S": "123 W 56th St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.7643344624229,-73.9787312885132"
+        },
+        "number_of_reviews": {
+            "N": "735"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "A-ert0jDRBfku9ogyW_mEg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036358"
+        },
+        "name": {
+            "S": "Spice Symphony"
+        },
+        "address": {
+            "S": "150 E 50th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.7558937072754,-73.9715347290039"
+        },
+        "number_of_reviews": {
+            "N": "667"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "HEs6llkn3wIP1ATXeIZQew"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036362"
+        },
+        "name": {
+            "S": "Pippali"
+        },
+        "address": {
+            "S": "129 E 27th St, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74233,-73.98331"
+        },
+        "number_of_reviews": {
+            "N": "905"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "z2VXX7wGl8XZ6_oo9W3koA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036364"
+        },
+        "name": {
+            "S": "Patiala Indian Grill"
+        },
+        "address": {
+            "S": "371 W 34th St, New York, NY 10001"
+        },
+        "coordinates": {
+            "S": "40.7534700430117,-73.99595067259492"
+        },
+        "number_of_reviews": {
+            "N": "651"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10001"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "Xqk91WuhMeYS4pedccUYgA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036368"
+        },
+        "name": {
+            "S": "Gazab"
+        },
+        "address": {
+            "S": "179 Essex St, New York, NY 10002"
+        },
+        "coordinates": {
+            "S": "40.72191,-73.98666"
+        },
+        "number_of_reviews": {
+            "N": "279"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10002"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "juAQ4DHCW_24LpV1T1JmBA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036371"
+        },
+        "name": {
+            "S": "Patiala Indian Grill  & Bar"
+        },
+        "address": {
+            "S": "240 W 35th St, New York, NY 10001"
+        },
+        "coordinates": {
+            "S": "40.752147,-73.991864"
+        },
+        "number_of_reviews": {
+            "N": "21"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10001"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "jf3JRaxUYU93x8LFU-8gkA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036373"
+        },
+        "name": {
+            "S": "GupShup"
+        },
+        "address": {
+            "S": "115 E18th St, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.7368831,-73.98762055398464"
+        },
+        "number_of_reviews": {
+            "N": "737"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "objNX6cuj1JyUijFjw21Qw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036379"
+        },
+        "name": {
+            "S": "Bombay Bistro"
+        },
+        "address": {
+            "S": "31 Cornelia St, New York, NY 10014"
+        },
+        "coordinates": {
+            "S": "40.73136,-74.00253"
+        },
+        "number_of_reviews": {
+            "N": "283"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10014"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "izRJeBfDQYJmd6ibIQ6Mfg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036382"
+        },
+        "name": {
+            "S": "Mughlai Indian Cuisine"
+        },
+        "address": {
+            "S": "1724 2nd Ave, New York, NY 10128"
+        },
+        "coordinates": {
+            "S": "40.78002,-73.94978"
+        },
+        "number_of_reviews": {
+            "N": "629"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10128"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "3kuaJMPOeTP1O1CK2fyOsA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036385"
+        },
+        "name": {
+            "S": "Dadi Ma Home Style Indian Cooking"
+        },
+        "address": {
+            "S": "246 E 51st, Store 1, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75557266682884,-73.9687464"
+        },
+        "number_of_reviews": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "5.0"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "ut-560tVcs2g-ZU0Y_qqHQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036387"
+        },
+        "name": {
+            "S": "Saar Indian Bistro"
+        },
+        "address": {
+            "S": "241 W 51st St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.7626659,-73.9847093"
+        },
+        "number_of_reviews": {
+            "N": "418"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "u_CnSp9FieAuWqhvCn-A2A"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036390"
+        },
+        "name": {
+            "S": "Spice Mantra"
+        },
+        "address": {
+            "S": "1047 2nd Ave, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75825,-73.96633"
+        },
+        "number_of_reviews": {
+            "N": "87"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "t6PzD4uzBOfyCLcd_lT8cQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036396"
+        },
+        "name": {
+            "S": "Sathi"
+        },
+        "address": {
+            "S": "216 3rd Ave, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.73621,-73.98528"
+        },
+        "number_of_reviews": {
+            "N": "319"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "9pMhRYYgV7E9L7pzECtJKA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036399"
+        },
+        "name": {
+            "S": "The Drunken Munkey - UES"
+        },
+        "address": {
+            "S": "338 E 92nd St, New York, NY 10128"
+        },
+        "coordinates": {
+            "S": "40.78098,-73.94751"
+        },
+        "number_of_reviews": {
+            "N": "1385"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10128"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "NgD-6ogFGc_c4z5_Ur4k2g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036401"
+        },
+        "name": {
+            "S": "Dhaba Indian Cuisine"
+        },
+        "address": {
+            "S": "108 Lexington Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.742364,-73.982813"
+        },
+        "number_of_reviews": {
+            "N": "1592"
+        },
+        "rating": {
+            "N": "3.7"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "qhXIW0LDT4XsoN2IE6dZHg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036404"
+        },
+        "name": {
+            "S": "Ahimsa"
+        },
+        "address": {
+            "S": "204 E 38th St, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.7478959,-73.9758638"
+        },
+        "number_of_reviews": {
+            "N": "228"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "mHRu4KZXYM_RwyFXBGncsA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036406"
+        },
+        "name": {
+            "S": "INDAY All Day"
+        },
+        "address": {
+            "S": "658 Driggs Ave, Brooklyn, NY 11211"
+        },
+        "coordinates": {
+            "S": "40.71471,-73.95921"
+        },
+        "number_of_reviews": {
+            "N": "65"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "11211"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "jSMfV_e4Jh1DKoCnngOiQQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036413"
+        },
+        "name": {
+            "S": "Gulaabo"
+        },
+        "address": {
+            "S": "250 W 47th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.759859,-73.986707"
+        },
+        "number_of_reviews": {
+            "N": "54"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "7VIUu8ay754GoUYEpsmxOA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036416"
+        },
+        "name": {
+            "S": "Jazba"
+        },
+        "address": {
+            "S": "207 2nd Ave, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.731701,-73.98585"
+        },
+        "number_of_reviews": {
+            "N": "104"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "RARUAVWONyRQovr0D6TGQg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036419"
+        },
+        "name": {
+            "S": "Baazi"
+        },
+        "address": {
+            "S": "2588 Broadway, New York, NY 10025"
+        },
+        "coordinates": {
+            "S": "40.7955035,-73.9708505"
+        },
+        "number_of_reviews": {
+            "N": "75"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10025"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "Txm8KtUh9Mn2E7980jTr5g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036422"
+        },
+        "name": {
+            "S": "Dhamaka"
+        },
+        "address": {
+            "S": "119 Delancey St, Essex Market, Store  34, New York, NY 10002"
+        },
+        "coordinates": {
+            "S": "40.7180658,-73.9881304"
+        },
+        "number_of_reviews": {
+            "N": "474"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10002"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "50eKjWOB-H9iuo1ocACOaQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036425"
+        },
+        "name": {
+            "S": "Imli Urban Indian Food"
+        },
+        "address": {
+            "S": "1136 1st Ave, New York, NY 10065"
+        },
+        "coordinates": {
+            "S": "40.7616660604253,-73.9601389691234"
+        },
+        "number_of_reviews": {
+            "N": "259"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10065"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "7USPKYeaAfxl0Ch9j_1l7A"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036432"
+        },
+        "name": {
+            "S": "Moti Mahal Delux"
+        },
+        "address": {
+            "S": "1149 1st Ave, New York, NY 10065"
+        },
+        "coordinates": {
+            "S": "40.76213,-73.9605"
+        },
+        "number_of_reviews": {
+            "N": "571"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10065"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "kS2CP48K66yL2TwIhUqy_A"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036435"
+        },
+        "name": {
+            "S": "Tamarind"
+        },
+        "address": {
+            "S": "99 Hudson St, New York, NY 10013"
+        },
+        "coordinates": {
+            "S": "40.71909,-74.00892"
+        },
+        "number_of_reviews": {
+            "N": "1147"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10013"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "iXSuNKKUBIrBX7zUerlQDQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036437"
+        },
+        "name": {
+            "S": "Benares"
+        },
+        "address": {
+            "S": "45 Murray St, New York, NY 10007"
+        },
+        "coordinates": {
+            "S": "40.71415,-74.009209"
+        },
+        "number_of_reviews": {
+            "N": "660"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10007"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "_7BGw3YFNOTzP1Www3zB7g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036440"
+        },
+        "name": {
+            "S": "Mughlai Grill"
+        },
+        "address": {
+            "S": "6 Clinton St, New York, NY 10002"
+        },
+        "coordinates": {
+            "S": "40.7210905,-73.9840446"
+        },
+        "number_of_reviews": {
+            "N": "542"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10002"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "IysZ64t48AedrhWfz3WJGQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036443"
+        },
+        "name": {
+            "S": "Cloves Indian Cuisine"
+        },
+        "address": {
+            "S": "66 Madison Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.74367,-73.98612"
+        },
+        "number_of_reviews": {
+            "N": "11"
+        },
+        "rating": {
+            "N": "4.9"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "tN37MOvqzrmpU0h0PfoDmw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036450"
+        },
+        "name": {
+            "S": "Utsav"
+        },
+        "address": {
+            "S": "1185 Avenue Of The Americas Plz, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.75791,-73.9825"
+        },
+        "number_of_reviews": {
+            "N": "664"
+        },
+        "rating": {
+            "N": "3.5"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "iLjrQvbUYPj6NLkalyau0w"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036453"
+        },
+        "name": {
+            "S": "Hyderabadi Zaiqa"
+        },
+        "address": {
+            "S": "366 W 52 St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76439568665357,-73.9876243"
+        },
+        "number_of_reviews": {
+            "N": "48"
+        },
+        "rating": {
+            "N": "4.8"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "3hlAeWgSKAnSQ1tg8k8D8g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036455"
+        },
+        "name": {
+            "S": "Alachi Masala"
+        },
+        "address": {
+            "S": "488 Amsterdam Ave, New York, NY 10024"
+        },
+        "coordinates": {
+            "S": "40.78620473306449,-73.97648420341335"
+        },
+        "number_of_reviews": {
+            "N": "292"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10024"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "jYhbUh1TV7SCfPxjIhVpcg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036459"
+        },
+        "name": {
+            "S": "Baar Baar"
+        },
+        "address": {
+            "S": "13 E 1st St, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.7244378855031,-73.9915524"
+        },
+        "number_of_reviews": {
+            "N": "1269"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "xWVHj2XNcxEg79Nkb5Zb6Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036461"
+        },
+        "name": {
+            "S": "Semma"
+        },
+        "address": {
+            "S": "60 Greenwich Ave, New York, NY 10011"
+        },
+        "coordinates": {
+            "S": "40.736054206102615,-74.0005639"
+        },
+        "number_of_reviews": {
+            "N": "415"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10011"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "XKy4Cy4uNgO7rxhH4yFJQQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036467"
+        },
+        "name": {
+            "S": "Mughlai Indian Cuisine"
+        },
+        "address": {
+            "S": "329 3rd Ave, New York, NY 10010"
+        },
+        "coordinates": {
+            "S": "40.7397599,-73.98226"
+        },
+        "number_of_reviews": {
+            "N": "469"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "zip_code": {
+            "S": "10010"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "l_Td-NFRIdxu7m6pgJUqhQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036469"
+        },
+        "name": {
+            "S": "Manhattan Valley"
+        },
+        "address": {
+            "S": "2636 Broadway 100 St, New York, NY 10025"
+        },
+        "coordinates": {
+            "S": "40.796965,-73.969741"
+        },
+        "number_of_reviews": {
+            "N": "123"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10025"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "GNPne4Il-itbn2sLbvMo1g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036472"
+        },
+        "name": {
+            "S": "Angel Indian Restaurant"
+        },
+        "address": {
+            "S": "7414 37th Rd, Jackson Heights, NY 11372"
+        },
+        "coordinates": {
+            "S": "40.7473069226623,-73.8912814123575"
+        },
+        "number_of_reviews": {
+            "N": "453"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "11372"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "KXD44wWmrGf7mzyyr0bikw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036475"
+        },
+        "name": {
+            "S": "P.S. Kitchen"
+        },
+        "address": {
+            "S": "246 W 48th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.760706,-73.986627"
+        },
+        "number_of_reviews": {
+            "N": "738"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "BPyt7S9TdcR1u571iacg7g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036478"
+        },
+        "name": {
+            "S": "The Kati Roll Company"
+        },
+        "address": {
+            "S": "49 W 39th St, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.752819,-73.984587"
+        },
+        "number_of_reviews": {
+            "N": "1685"
+        },
+        "rating": {
+            "N": "3.7"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "raGF9jAO7JOiIbFQ2_bTAg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036482"
+        },
+        "name": {
+            "S": "India at Time Square"
+        },
+        "address": {
+            "S": "332 W 44th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.75941459798258,-73.99145881962656"
+        },
+        "number_of_reviews": {
+            "N": "108"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "nd0uXNXaeaDMuMk4C1GusA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036485"
+        },
+        "name": {
+            "S": "Bukhara Grill:Indian Spice Rave"
+        },
+        "address": {
+            "S": "217 E 49th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.75501,-73.97028"
+        },
+        "number_of_reviews": {
+            "N": "552"
+        },
+        "rating": {
+            "N": "3.6"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "ePn4BwyXeY8NKN-MWSgfrQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036488"
+        },
+        "name": {
+            "S": "Kebab Aur Sharab"
+        },
+        "address": {
+            "S": "247 W 72nd St, New York, NY 10023"
+        },
+        "coordinates": {
+            "S": "40.77951,-73.98331"
+        },
+        "number_of_reviews": {
+            "N": "131"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10023"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "fCxjrytrEw_l9vGjSCzszg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036495"
+        },
+        "name": {
+            "S": "Paisley"
+        },
+        "address": {
+            "S": "429 Greenwich St, New York, NY 10013"
+        },
+        "coordinates": {
+            "S": "40.722387,-74.0095662"
+        },
+        "number_of_reviews": {
+            "N": "109"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10013"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "FXDMFBM-rV2s5MHzA33d2g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036501"
+        },
+        "name": {
+            "S": "Bombay Grill House"
+        },
+        "address": {
+            "S": "764 9th Ave, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76421,-73.988101"
+        },
+        "number_of_reviews": {
+            "N": "331"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "jvPYm9rYK-5ddnjU30Oz4Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036504"
+        },
+        "name": {
+            "S": "Avant Garden"
+        },
+        "address": {
+            "S": "95 Avenue A, Fl 2, New York, NY 10009"
+        },
+        "coordinates": {
+            "S": "40.72567325788113,-73.98408189999999"
+        },
+        "number_of_reviews": {
+            "N": "448"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10009"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "T1CRoZ-f-hwrjdkBvt7_kg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:48.036508"
+        },
+        "name": {
+            "S": "Indian Tanpura"
+        },
+        "address": {
+            "S": "564 Amsterdam Ave, New York, NY 10024"
+        },
+        "coordinates": {
+            "S": "40.78869,-73.97468"
+        },
+        "number_of_reviews": {
+            "N": "195"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "zip_code": {
+            "S": "10024"
+        },
+        "cuisine": {
+            "S": "Indian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "VmdyRRMtUXOWV7F7w0ImwQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061063"
+        },
+        "name": {
+            "S": "Piccola Cucina Uptown"
+        },
+        "address": {
+            "S": "106 E 60th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.763174,-73.969046"
+        },
+        "number_of_reviews": {
+            "N": "432"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "hdiuRS9sVZSMReZm4oV5SA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061109"
+        },
+        "name": {
+            "S": "Da Andrea - Greenwich Village"
+        },
+        "address": {
+            "S": "35 W 13th St, New York, NY 10011"
+        },
+        "coordinates": {
+            "S": "40.736287,-73.995865"
+        },
+        "number_of_reviews": {
+            "N": "2204"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10011"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "16ZnHpuaaBt92XWeJHCC5A"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061118"
+        },
+        "name": {
+            "S": "Olio e Pi\u00f9"
+        },
+        "address": {
+            "S": "3 Greenwich Ave, New York, NY 10014"
+        },
+        "coordinates": {
+            "S": "40.733798036104304,-73.99977392649927"
+        },
+        "number_of_reviews": {
+            "N": "5321"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10014"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "DoSU8IPq-Py_YV3kYmXPfQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061128"
+        },
+        "name": {
+            "S": "Trattoria Trecolori"
+        },
+        "address": {
+            "S": "254 West 47th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.759876,-73.986767"
+        },
+        "number_of_reviews": {
+            "N": "2717"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "OWNmOq-TAsHjGcYdCVclSw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061136"
+        },
+        "name": {
+            "S": "Osteria La Baia"
+        },
+        "address": {
+            "S": "129 W 52nd St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76189587672743,-73.9806749"
+        },
+        "number_of_reviews": {
+            "N": "136"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "hkooeEkd3oPsLD6JJrYpjA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061144"
+        },
+        "name": {
+            "S": "Caf\u00e9 Luce"
+        },
+        "address": {
+            "S": "235 E 53rd St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.757323,-73.967928"
+        },
+        "number_of_reviews": {
+            "N": "179"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "vjubSxmdG_HoBBgd39geBw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061150"
+        },
+        "name": {
+            "S": "Nino's 46"
+        },
+        "address": {
+            "S": "39 W 46th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.756899,-73.980507"
+        },
+        "number_of_reviews": {
+            "N": "1461"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "26emJlm1YMFyOCezfgVk4g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061157"
+        },
+        "name": {
+            "S": "Da Raffaele"
+        },
+        "address": {
+            "S": "883 First Ave, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.7535386913133,-73.9666010811925"
+        },
+        "number_of_reviews": {
+            "N": "225"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "562aZEpTDdYKDe5hWuDyFA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061166"
+        },
+        "name": {
+            "S": "La Gioconda"
+        },
+        "address": {
+            "S": "226 E 53rd St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75716,-73.96833"
+        },
+        "number_of_reviews": {
+            "N": "200"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "TzVVPWK_4dhdSEpNqZwIhQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061174"
+        },
+        "name": {
+            "S": "Toscana 49"
+        },
+        "address": {
+            "S": "143 East 49 St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.7556957079225,-73.9717184007168"
+        },
+        "number_of_reviews": {
+            "N": "356"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "WG639VkTjmK5dzydd1BBJA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061182"
+        },
+        "name": {
+            "S": "Rubirosa"
+        },
+        "address": {
+            "S": "235 Mulberry St, New York, NY 10012"
+        },
+        "coordinates": {
+            "S": "40.722766,-73.996233"
+        },
+        "number_of_reviews": {
+            "N": "3288"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10012"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "OAqsZMbjv66nOMqlimnYuQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061198"
+        },
+        "name": {
+            "S": "Uva"
+        },
+        "address": {
+            "S": "1486 2nd Ave, New York, NY 10075"
+        },
+        "coordinates": {
+            "S": "40.77219299003591,-73.95561517222123"
+        },
+        "number_of_reviews": {
+            "N": "2806"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10075"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "kIK1DBH6ODkSouhvz-4VWA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061206"
+        },
+        "name": {
+            "S": "Il Tinello"
+        },
+        "address": {
+            "S": "244 East 46th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.75265874754987,-73.97093351560888"
+        },
+        "number_of_reviews": {
+            "N": "70"
+        },
+        "rating": {
+            "N": "4.9"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "dEOv8_ivdHp85OK_TDQh_g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061214"
+        },
+        "name": {
+            "S": "Da Andrea - Chelsea"
+        },
+        "address": {
+            "S": "160 8th Ave, New York, NY 10011"
+        },
+        "coordinates": {
+            "S": "40.742041,-74.000467"
+        },
+        "number_of_reviews": {
+            "N": "55"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10011"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "E48WbksxAk19a8vjJRVIVQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061221"
+        },
+        "name": {
+            "S": "Ramerino Italian Prime"
+        },
+        "address": {
+            "S": "16 E 39th St, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.75107,-73.98135"
+        },
+        "number_of_reviews": {
+            "N": "100"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "JFmWkslCGTeuwC_Yews4-Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061228"
+        },
+        "name": {
+            "S": "Carlotto"
+        },
+        "address": {
+            "S": "100 E 19th St, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.7375,-73.98782"
+        },
+        "number_of_reviews": {
+            "N": "42"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "22nKUyCIbpnzR6R3_g1ptQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061235"
+        },
+        "name": {
+            "S": "Carmine's Italian Restaurant - Times Square"
+        },
+        "address": {
+            "S": "200 W 44th St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.75749848725768,-73.98665333142026"
+        },
+        "number_of_reviews": {
+            "N": "4799"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "8oO6j7AlnAbMSJs9Oj9GIw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061242"
+        },
+        "name": {
+            "S": "Osteria Delbianco"
+        },
+        "address": {
+            "S": "22 East 49th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.7573689002,-73.9764462233"
+        },
+        "number_of_reviews": {
+            "N": "216"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "aLM9irVFlNoVlS9dGuW_Lg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061250"
+        },
+        "name": {
+            "S": "Amata"
+        },
+        "address": {
+            "S": "209 E 56th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.759426,-73.967063"
+        },
+        "number_of_reviews": {
+            "N": "94"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "V3USzFEGhuoXez4G2Rk11A"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061257"
+        },
+        "name": {
+            "S": "Tavola"
+        },
+        "address": {
+            "S": "488 9th Ave, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.755403,-73.994516"
+        },
+        "number_of_reviews": {
+            "N": "1407"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "rp8S7scxOkVVeG7dNneMGQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061264"
+        },
+        "name": {
+            "S": "L'Artusi"
+        },
+        "address": {
+            "S": "228 W 10th St, New York, NY 10014"
+        },
+        "coordinates": {
+            "S": "40.73372,-74.00513"
+        },
+        "number_of_reviews": {
+            "N": "2442"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10014"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "XujJhk-uQQezYgxyx-YN5Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061271"
+        },
+        "name": {
+            "S": "Parla"
+        },
+        "address": {
+            "S": "320 Columbus Ave, New York, NY 10023"
+        },
+        "coordinates": {
+            "S": "40.779604142118245,-73.9775782278624"
+        },
+        "number_of_reviews": {
+            "N": "39"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10023"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "z7H9ApIGopnDnQaglnPTzg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061279"
+        },
+        "name": {
+            "S": "Allora Ristorante"
+        },
+        "address": {
+            "S": "145 E 47th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.75433,-73.97277"
+        },
+        "number_of_reviews": {
+            "N": "832"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "rpVX-o82EEOX8ZDnM28a_Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061286"
+        },
+        "name": {
+            "S": "Bistango"
+        },
+        "address": {
+            "S": "145 E 50th St, The Kimberly Hotel, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75628,-73.97144"
+        },
+        "number_of_reviews": {
+            "N": "369"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "JLpEKUYAtzBRQwsUL3RPIA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061293"
+        },
+        "name": {
+            "S": "Il Corso"
+        },
+        "address": {
+            "S": "54 W 55th St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.762441,-73.977206"
+        },
+        "number_of_reviews": {
+            "N": "463"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "hzPBADaUBQEL30MGrvKsww"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061301"
+        },
+        "name": {
+            "S": "Il Tinello Ristorante Italiano"
+        },
+        "address": {
+            "S": "16 W 56th St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76256,-73.97566"
+        },
+        "number_of_reviews": {
+            "N": "339"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "-vBfKWJ1v9YdJQT5XUbcBQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061308"
+        },
+        "name": {
+            "S": "Le Botaniste"
+        },
+        "address": {
+            "S": "833 Lexington Ave, New York, NY 10065"
+        },
+        "coordinates": {
+            "S": "40.7649986274526,-73.9659830279587"
+        },
+        "number_of_reviews": {
+            "N": "481"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10065"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "gObd5Qhhv5yL1zBjRoltxg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061316"
+        },
+        "name": {
+            "S": "Via Toscana"
+        },
+        "address": {
+            "S": "344 W 52nd St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.7639195,-73.98683660000002"
+        },
+        "number_of_reviews": {
+            "N": "14"
+        },
+        "rating": {
+            "N": "4.9"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "LXdblKc5g1Dp17xiV-Am1w"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061324"
+        },
+        "name": {
+            "S": "Trattoria Dell'Arte"
+        },
+        "address": {
+            "S": "900 7th Ave, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.76545990643915,-73.98053136970677"
+        },
+        "number_of_reviews": {
+            "N": "1227"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "lgFApPVpbXnsIFw1CRJORw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061333"
+        },
+        "name": {
+            "S": "Cellini"
+        },
+        "address": {
+            "S": "65 E 54th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.760115,-73.972686"
+        },
+        "number_of_reviews": {
+            "N": "187"
+        },
+        "rating": {
+            "N": "3.9"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "1XK53gaHMFQIA4VW3B6k1Q"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061340"
+        },
+        "name": {
+            "S": "Abaita"
+        },
+        "address": {
+            "S": "145 E 49th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.755541483222,-73.9718742367706"
+        },
+        "number_of_reviews": {
+            "N": "126"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "h37t9rA06Sr4EetJjKrfzw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061351"
+        },
+        "name": {
+            "S": "Don Angie"
+        },
+        "address": {
+            "S": "103 Greenwich Ave, New York, NY 10014"
+        },
+        "coordinates": {
+            "S": "40.73778,-74.00197"
+        },
+        "number_of_reviews": {
+            "N": "848"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10014"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "HpxYBu1ARzOGvuUcLJe54g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061359"
+        },
+        "name": {
+            "S": "Giardino 54"
+        },
+        "address": {
+            "S": "400 1/2 W 54th St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.7660476,-73.987591"
+        },
+        "number_of_reviews": {
+            "N": "244"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "zRXMvxUX_rOliKZPpkWi_g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061366"
+        },
+        "name": {
+            "S": "Valerie"
+        },
+        "address": {
+            "S": "45 W 45th St between 5th & 6th Ave, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.756326,-73.981117"
+        },
+        "number_of_reviews": {
+            "N": "896"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "GjEE8vvjqb7eeHA3BGNxAw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061374"
+        },
+        "name": {
+            "S": "Barolo East"
+        },
+        "address": {
+            "S": "214 E 49th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.75481,-73.97059"
+        },
+        "number_of_reviews": {
+            "N": "283"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "7cjT33LfYSk7vrRdEaSr4w"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061381"
+        },
+        "name": {
+            "S": "Angeletto Restaurant"
+        },
+        "address": {
+            "S": "890 2nd Ave, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.753188,-73.969365"
+        },
+        "number_of_reviews": {
+            "N": "302"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "5TX0X8w5ssIACU_pnBEq6g"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061388"
+        },
+        "name": {
+            "S": "Tony's Di Napoli"
+        },
+        "address": {
+            "S": "147 W 43rd St, New York, NY 10036"
+        },
+        "coordinates": {
+            "S": "40.75641,-73.98547"
+        },
+        "number_of_reviews": {
+            "N": "2669"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "zip_code": {
+            "S": "10036"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "LkV96_buOU_n0br4SBO57w"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061398"
+        },
+        "name": {
+            "S": "Ci Siamo"
+        },
+        "address": {
+            "S": "440 West 33rd St, Ste 100, New York, NY 10001"
+        },
+        "coordinates": {
+            "S": "40.75240549384363,-73.9982864846782"
+        },
+        "number_of_reviews": {
+            "N": "461"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10001"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "NlmP5x_Ykznd55Dc85ChUg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061406"
+        },
+        "name": {
+            "S": "Nittis"
+        },
+        "address": {
+            "S": "523 9th Ave, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.7567,-73.99411"
+        },
+        "number_of_reviews": {
+            "N": "372"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "Ve6GVzzJpR5QIIPdcn6ViQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061414"
+        },
+        "name": {
+            "S": "Mercato"
+        },
+        "address": {
+            "S": "352 W 39th St, New York, NY 10018"
+        },
+        "coordinates": {
+            "S": "40.75619,-73.9937"
+        },
+        "number_of_reviews": {
+            "N": "1072"
+        },
+        "rating": {
+            "N": "3.8"
+        },
+        "zip_code": {
+            "S": "10018"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "RXCCofQw1EjTcSN0ZeXfRA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061421"
+        },
+        "name": {
+            "S": "Risotteria Melotti NYC"
+        },
+        "address": {
+            "S": "309 E 5th St, New York, NY 10003"
+        },
+        "coordinates": {
+            "S": "40.726673363853,-73.9880919456482"
+        },
+        "number_of_reviews": {
+            "N": "402"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10003"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "raqwXUBlnc0e8c7CYmxEJQ"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061429"
+        },
+        "name": {
+            "S": "Scarpetta"
+        },
+        "address": {
+            "S": "88 Madison Ave, New York, NY 10016"
+        },
+        "coordinates": {
+            "S": "40.744509,-73.9856"
+        },
+        "number_of_reviews": {
+            "N": "2323"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10016"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "MOwB9YYd-Ko6nVgSB-ltQw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061437"
+        },
+        "name": {
+            "S": "Briciola"
+        },
+        "address": {
+            "S": "370 W 51st St, New York, NY 10019"
+        },
+        "coordinates": {
+            "S": "40.7637997047278,-73.9880919456482"
+        },
+        "number_of_reviews": {
+            "N": "1025"
+        },
+        "rating": {
+            "N": "4.0"
+        },
+        "zip_code": {
+            "S": "10019"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "hveuXFWS53S1wWpaK0nokw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061445"
+        },
+        "name": {
+            "S": "Lupetto"
+        },
+        "address": {
+            "S": "1123 Broadway, New York, NY 10010"
+        },
+        "coordinates": {
+            "S": "40.74332,-73.98924"
+        },
+        "number_of_reviews": {
+            "N": "28"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "10010"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "3qIISjUYn1tbqHXi7nCLXg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061452"
+        },
+        "name": {
+            "S": "Sofia Wine Bar"
+        },
+        "address": {
+            "S": "242 E 50th St, New York, NY 10022"
+        },
+        "coordinates": {
+            "S": "40.75502,-73.96913"
+        },
+        "number_of_reviews": {
+            "N": "754"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "zip_code": {
+            "S": "10022"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "fyC2cBsQ0FsMJmv0jSworg"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061460"
+        },
+        "name": {
+            "S": "Donna Margherita"
+        },
+        "address": {
+            "S": "1304 2nd Ave, Ste A, New York, NY 10065"
+        },
+        "coordinates": {
+            "S": "40.76652,-73.9598"
+        },
+        "number_of_reviews": {
+            "N": "199"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "zip_code": {
+            "S": "10065"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "OCTiJwvjoK81WoDwsTkFvA"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061468"
+        },
+        "name": {
+            "S": "Paesano of Mulberry Street"
+        },
+        "address": {
+            "S": "136 Mulberry St, New York, NY 10013"
+        },
+        "coordinates": {
+            "S": "40.718554,-73.997447"
+        },
+        "number_of_reviews": {
+            "N": "1497"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "zip_code": {
+            "S": "10013"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "1ZKbUeFAs0ltSnAYq4ELKw"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061475"
+        },
+        "name": {
+            "S": "Trattoria L'incontro"
+        },
+        "address": {
+            "S": "21-76 31st St, Astoria, NY 11105"
+        },
+        "coordinates": {
+            "S": "40.77648209257472,-73.91059675544598"
+        },
+        "number_of_reviews": {
+            "N": "1128"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "zip_code": {
+            "S": "11105"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    },
+    {
+        "business_id": {
+            "S": "K9Ur20N51Li3sAvaV9-6Ng"
+        },
+        "insertedAtTimestamp": {
+            "S": "2024-02-20 16:36:49.061484"
+        },
+        "name": {
+            "S": "Casa Limone"
+        },
+        "address": {
+            "S": "20 East 49th St, New York, NY 10017"
+        },
+        "coordinates": {
+            "S": "40.7572668651672,-73.97663240000152"
+        },
+        "number_of_reviews": {
+            "N": "124"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "zip_code": {
+            "S": "10017"
+        },
+        "cuisine": {
+            "S": "Italian"
+        }
+    }
+]
